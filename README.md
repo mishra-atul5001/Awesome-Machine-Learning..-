@@ -7,19 +7,14 @@ Creating Kaggle Data Kernels on the Journey
 
 Implenting Practical Codes from various Blogs(mainly Medium)
 
-For clustering Techniques:
-https://github.com/mishra-atul5001/Awesome-Machine-Learning..-/tree/master/Clustering%20Methods
+[For clustering Techniques](https://github.com/mishra-atul5001/Awesome-Machine-Learning..-/tree/master/Clustering%20Methods)
 
-For Different ways to explore Iris DataSet and perform models:
-https://github.com/mishra-atul5001/Awesome-Machine-Learning..-/tree/master/Iris%20Implementation
+[For Different ways to explore Iris DataSet and perform models](https://github.com/mishra-atul5001/Awesome-Machine-Learning..-/tree/master/Iris%20Implementation)
 
-For implementation of Keras in different Modules:
-https://github.com/mishra-atul5001/Awesome-Machine-Learning..-/tree/master/Keras%20Implementation
+[For implementation of Keras in different Modules](https://github.com/mishra-atul5001/Awesome-Machine-Learning..-/tree/master/Keras%20Implementation)
 
-Peforming SVM in different ways:
-https://github.com/mishra-atul5001/Awesome-Machine-Learning..-/tree/master/Keras%20Implementation
+[Peforming SVM in different ways](https://github.com/mishra-atul5001/Awesome-Machine-Learning..-/tree/master/Keras%20Implementation)
 
-In Depth exploration of Decision Trees and Random Forest:
-https://github.com/mishra-atul5001/Awesome-Machine-Learning..-/tree/master/Decision%20Tress%20and%20Random%20Forest
+[In Depth exploration of Decision Trees and Random Forest](https://github.com/mishra-atul5001/Awesome-Machine-Learning..-/tree/master/Decision%20Tress%20and%20Random%20Forest)
 
 ♥ 
